@@ -1,4 +1,5 @@
 import React from "react";
+import { JSX } from "react";
 import DashboardIcon from "../assets/DashboardIcon";
 
 const sidebarData = [
