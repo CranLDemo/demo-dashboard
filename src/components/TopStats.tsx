@@ -7,9 +7,9 @@ const TopStats: React.FC = () => {
     <div className="mb-4">
       <div className="w-full flex justify-between items-center my-4">
         <h1 className="text-xl font-bold text-gray-800">
-          Hey Mariana –{" "}
+          Hey CranL –{" "}
           <span className="text-sm  text-gray-500">
-            here's what's happening with your store today
+            Updated the dashboard
           </span>
         </h1>
         <div className="flex items-center">
